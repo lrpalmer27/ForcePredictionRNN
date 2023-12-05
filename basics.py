@@ -1,7 +1,7 @@
 ### This file just has some basics that might be useful later during devel. 
 
 Filename="12p5m_9ths_0p5kts_0p6m_0deg_001.csv"
-data_list = [
+columnnames = [
     'FrameN', 'Carriage_Speed_DP', 'Global_FX', 'Global_FY', 'Global_FT', 'Global_MZ',
     'Floe_Size', 'Drift_Speed', 'Ice_Thick', 'Drift_Angle',
     'Region_0:228.0_0:20 - Ice Conc', 'Region_0:228.0_0:20 - Mean', 'Region_0:228.0_0:20 - StdDev',
